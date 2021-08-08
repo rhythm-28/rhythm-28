@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Rhythm 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Developer and a Student!!
 
 - 🔭 I’m a MERN stack web developer 🤣
@@ -32,6 +29,8 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][codechef]
+[<img align="left" alt="codeSTACKr | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][codechef]
 
 <br />
 
@@ -109,3 +108,5 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/RhythmBhatia_28
 [linkedin]: https://www.linkedin.com/in/rhythm-bhatia/
+[codechef]: https://www.codechef.com/users/rhythm_28
+[codeforces]: https://codeforces.com/profile/rhythm_28
