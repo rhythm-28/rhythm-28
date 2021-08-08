@@ -2,7 +2,7 @@
 
 ## I'm a Developer and a Student!!
 
-- 🔭 I’m a MERN stack web developer 🤣
+- 🔭 I’m a MERN stack web developer
 - 🌱 I’m currently learning Redux 🤣
 - 👯 I’m currently looking for summer internship opportunities.
 - 🥅 2021 Goals: To learn app and game development.
@@ -32,7 +32,7 @@
 <br />
 <br />
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -50,7 +50,7 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [twitter]: https://twitter.com/RhythmBhatia_28
 [linkedin]: https://www.linkedin.com/in/rhythm-bhatia/
