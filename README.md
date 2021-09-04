@@ -2,10 +2,10 @@
 
 ## I'm a Developer and a Student!!
 
-- 🔭 I’m a MERN stack web developer
+- 🔭 I’m a MERN stack web developer.
 - 🌱 I’m currently interning as a React Developer.
-- 👯 Also looking for summer internship opportunities.
 - 🥅 2021 Goals: To learn app and game development.
+- - 👯 Also looking for summer internship opportunities.
 - ⚡ Fun fact: I love to watch anime.
 
 ### Connect with me:
