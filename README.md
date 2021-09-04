@@ -3,8 +3,8 @@
 ## I'm a Developer and a Student!!
 
 - 🔭 I’m a MERN stack web developer
-- 🌱 I’m currently learning Redux
-- 👯 I’m currently looking for summer internship opportunities.
+- 🌱 I’m currently interning as a React Developer.
+- 👯 Also looking for summer internship opportunities.
 - 🥅 2021 Goals: To learn app and game development.
 - ⚡ Fun fact: I love to watch anime.
 
