@@ -5,7 +5,7 @@
 - 🔭 I’m a MERN stack web developer.
 - 🌱 I’m currently interning as a React Developer.
 - 🥅 2021 Goals: To learn app and game development.
-- - 👯 Also looking for summer internship opportunities.
+- 👯 Also looking for summer internship opportunities.
 - ⚡ Fun fact: I love to watch anime.
 
 ### Connect with me:
